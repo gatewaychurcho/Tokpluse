@@ -1,0 +1,6 @@
+{
+  "name": "TokPulse",
+  "description": "TikTok-style short-form video platform with creative editing tools, visual filters, social feed, Google Sign-In, Asifofc stylish watermark, and developer contact options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
